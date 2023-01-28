@@ -1,9 +1,10 @@
 {
-  "name": "discordtestbot",
+  "name": "scarlettbot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "dev": "nodemon",
     "deploy-commands": "node src/deploy-commands.js"
   },
